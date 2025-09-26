@@ -8,5 +8,5 @@ Buraco Negro é um jogo simples, rápido e cheio de tensão. Um buraco negro se 
 Sua missão é simples: escolher um número entre 1 e 5 e torcer para não cair no buraco negro. Se conseguir escapar, muito bem, você continua na partida! Agora, se não der certo... bem, o buraco negro te pegou, mas relaxa, é só tentar de novo.
 
 # Desenvolvedores
-[@Rafael-Gobi-Campijo](https://github.com/Rafael-Gobi-Campijo)
+[@Rafael-Gobi-Campijo](https://github.com/Rafael-Gobi-Campijo)<br>
 [@PedroCombinato](https://github.com/PedroCombinato)
