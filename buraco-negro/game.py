@@ -73,5 +73,16 @@ Escolha: '''))
     melhor = max(recorde) #variavel para pegar a melhor pontuação
     campeao = recorde.index(melhor) #variavel para pegar o nome do vencedor
     print(f"O campeão foi o 🥇 {nomes[campeao]} 🏆 com {melhor} pontos ")#campeão
+    ("~~"*10)
+    print("\n\n!!!RANKING!!!")
+    print("~~"*10)
+    for i in range(n1):
+        recorde.append(0)
+        print(f"{i+1}º - {nomes[campeao]} - {melhor} pontos")
+        recorde.remove(melhor)
+        nomes.pop(campeao)
+        melhor = max(recorde)
+        campeao = recorde.index(melhor)
+    print("~~"*10)
 else:
     print("Número inválido")
